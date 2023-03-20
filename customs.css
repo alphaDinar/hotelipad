@@ -229,10 +229,10 @@ body{
   transition: 0.3s ease;
 }
 .hotel_box .low .box{
-  background: url('/bv.jpg');
+  background: url('bv.jpg');
 }
 .book_box .low .box{
-  background-image: url('/full-moon-and-stars-background_1519164.jpg');
+  background-image: url('full-moon-and-stars-background_1519164.jpg');
 }
 .hotel_box .low .box:hover, .book_box .low .box:hover{
   background: rgb(77, 107, 119);
@@ -379,14 +379,14 @@ body{
   background: #e4e0ec;
 }
 .channel_box .low .box .i_box{
-  background-image:url('/full-moon-and-stars-background_1519164.jpg');
+  background-image:url('full-moon-and-stars-background_1519164.jpg');
   background-position: center;
   background-size: cover;
   transition: 0.3s ease;
 }
 .channel_box .low .box:hover .i_box{
   transform: rotateY(180deg);
-  background: url('/bv.jpg');
+  background: url('bv.jpg');
 }
 .rest_box .low i, .channel_box .low i{
   
